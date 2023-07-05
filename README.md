@@ -1,8 +1,19 @@
-# Hi, I'm Ronny 👨‍💻
+# 👨‍💻 Hi, I'm Ronny
 
 <strong>I am a Señor Front-end Consultant and Developer at [iO Digital](https://www.iodigital.com/nl/home).</strong>
 
-## Resources 📎
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](	https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+## 📎 Resources
 Twitter is the hotspot for finding developer resources and useful tips. I actively search it on a daily basis. Below you can find my latest saved resources.
 
 * [Zod + React Hook Form implementation](https://twitter.com/filipjnc/status/1637535336115970048), ([React](https://rnny.nl/resources/react))
@@ -16,8 +27,11 @@ Twitter is the hotspot for finding developer resources and useful tips. I active
 * [Restore scroll pos with useLayoutEffect queueMicroTrask](https://twitter.com/sebastienlorber/status/1650829494209466373), ([React](https://rnny.nl/resources/react))
 * [npx kill-port](https://twitter.com/dannypostmaa/status/1647790681568706561), ([Other](https://rnny.nl/resources/other))
 
-## Social 📱
+## 📱 Social
 You can find me online on the following platforms or send me an email:
 * [LinkedIn](https://www.linkedin.com/in/ronny-rook-02ab1622/)
 * [Twitter](https://twitter.com/rnnyrk)
 * [iam@ronnyrook.nl](mailto:iam@ronnyrook.nl)
+
+## 📊 Stats
+![rnnyrk streaks](https://github-readme-streak-stats.herokuapp.com/?user=rnnyrk&theme=dark)
